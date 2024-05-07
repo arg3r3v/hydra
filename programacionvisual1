@@ -1,0 +1,7 @@
+osc(15.57, 0.286, 1.597)
+	.modulate(osc(24.147, 0.198, 0.011))
+	.modulateScale(osc(32.988))
+	.modulateKaleid(osc(39.28), 0.2, 0.564)
+	.repeat(3.816, 2.156)
+	.color(1.398, 0.559, 0.424)
+	.out();
